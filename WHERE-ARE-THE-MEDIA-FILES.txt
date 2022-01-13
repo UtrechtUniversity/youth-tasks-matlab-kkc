@@ -1,0 +1,6 @@
+The following folders contained large media files and have been removed from this Git repository to save space. They are available upon request.
+
+./COMMON/media_capping
+./COMMON/media_common
+./MEDIA
+./COMMON/media_calib
